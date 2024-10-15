@@ -66,5 +66,5 @@ Una calculadora de escritorio que permite realizar operaciones matemáticas bás
 
 ## Notas Adicionales
 
-Cada uno de estos proyectos puede ser extendido y mejorado según sea necesario. Se recomienda probar cada aplicación y hacer ajustes en la interfaz gráfica o en la lógica de negocios según lo desees.
+Cada uno de estos proyectos puede ser extendido y mejorado según sea necesario. Se recomienda probar cada aplicación y hacer ajustes en la interfaz gráfica .
 
